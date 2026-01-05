@@ -1,13 +1,9 @@
 # `Github` 、`Gitee` 优秀的开源项目
 
-> 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[Github 地址](https://github.com/chenyl8848/great-open-source-project) [在线体验](https://chencoding.top:8090/#/)
+> 不定期收集 `Github`、`Gitee`优秀的开源项目，并进行归类整理。[Github 地址](https://github.com/songchuanfu/great-open-source-project) 
 >
 > [<img height="18px" height="18px" src="https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" />](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkzOTM3NjAzOQ==&action=getalbum&album_id=2783119709868212224#wechat_redirect) 表示在公众号发布过项目介绍信息。
 
-## 【关注公众号，浏览开源项目文章~】
-<img align="" height="200px"  src="https://chen-coding.oss-cn-shenzhen.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7.png" />
-
-<img align="" height="240px" src="https://chencoding.top:8090/public/_media/communicationgroups.png" />
 
 ## 推荐
 
@@ -1640,21 +1636,6 @@
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
-## 打赏作者
-
-**如果可以的话，请作者喝一杯咖啡☕~**
-
-![](https://chen-coding.oss-cn-shenzhen.aliyuncs.com/pay.png)
-
-**感谢打赏！！！❤️❤️❤️**
-
-| *吟  |
-| ---- |
-| *痕  |
-| *哲  |
-| *    |
-| **江 |
-| *艳  |
 
 **[⬆️ 回到顶部 ](#github-gitee-优秀的开源项目)**
 
